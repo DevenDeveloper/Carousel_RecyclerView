@@ -31,7 +31,7 @@ dependencies {
 ```
 
 # Example
-```
+```kotlin
 val images: MutableList<ModelImages> = ArrayList()
 images.add(ModelImages(1, "", "https://images.idgesg.net/images/article/2019/05/cso_best_security_software_best_ideas_best_technology_lightbulb_on_horizon_of_circuit_board_landscape_with_abstract_digital_connective_technology_atmosphere_ideas_innovation_creativity_by_peshkov_gettyimages-965785212_3x2_2400x1600-100797318-large.jpg?auto=webp&quality=85,70"))
 images.add(ModelImages(2, "", "https://imageio.forbes.com/specials-images/imageserve/637b1d11729a96ce28ea598c/The-Top-10-Tech-Trends-In-2023-Everyone-Must-Be-Ready-For/960x0.jpg?format=jpg&width=960"))
